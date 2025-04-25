@@ -54,7 +54,7 @@ const Hero2 = () => {
     <HeroSection>
       <HeroBackground>
         <HeroContent>
-          <HeroTitle>SATIRE MEETS SUBSTANCE.</HeroTitle>
+          <HeroTitle>SATIRE MEETS SUBSTANC.</HeroTitle>
           <HeroText>
             Cutting-edge satire exposing corruption and idiocy across the political spectrum, fueled by the community and crypto.
           </HeroText>
