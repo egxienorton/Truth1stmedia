@@ -47,14 +47,14 @@ const HeroText = styled.p`
   @media (max-width: 768px) {
     font-size: 1rem;
   }
-`;
+`;s
 
 const Hero2 = () => {
   return (
     <HeroSection>
       <HeroBackground>
         <HeroContent>
-          <HeroTitle>SATIRE MEETS SUBSTANC.</HeroTitle>
+          <HeroTitle>SATIRE MEETS SUBSTANCE.</HeroTitle>
           <HeroText>
             Cutting-edge satire exposing corruption and idiocy across the political spectrum, fueled by the community and crypto.
           </HeroText>
